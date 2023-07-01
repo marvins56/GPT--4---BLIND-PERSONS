@@ -1,0 +1,19 @@
+
+hackathon/.env
+hackathon/vitbase
+hackathon/saved_models
+hackathon/saved_vocabulary
+hackathon/model_cache
+hackathon/captions/pytorch_model.bin
+hackathon/captions/hf_model.h5
+hackathon/captioning
+hackathon/captions/tf_model.h5
+hackathon/TTS.py
+hackathon/test.py
+hackathon/read.py
+hackathon/processDoc.py
+hackathon/model copy.py
+hackathon/imageCaptionTest.py
+hackathon/imageCaption.py
+hackathon/currentInfo.py
+hackathon/chat.py
